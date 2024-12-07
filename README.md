@@ -2,7 +2,7 @@
 _An AutoHotKey script that does the typing for you._
 ## Purpose
 Twitch offers an AutoMod tool that blocks terms and phrases you list. 
-But it can take a long time to manually type them all into automod.
+But it can take a long time to manually type them all into AutoMod.
 
 This tool does the typing and submission for you.
 This solution is great for mods helping several channels who want consistent blocked terms.
@@ -12,7 +12,7 @@ You must have AutoHotKey V2 installed on your PC. Visit https://www.autohotkey.c
 
 This solution has been tested and developed for Windows (W11). I make no guarantees about performance or usability on Mac or Linux because I don't have ready access to either of those environments.
 
-You need access to a web browser that can access Automod's Block terms and phrases page. I use Firefox, but tests show that chrome works too.
+You need access to a web browser that can access AutoMod's Blocked terms and phrases page. I use Firefox, but tests show that chrome works too.
 
 ## Instructions
 ### Prepare a list of blocked terms
