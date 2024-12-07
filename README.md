@@ -29,7 +29,7 @@ You can run it on the example by editing the `automod_initializer.ahk` file in n
 
 Make sure you delete the test terms from automod after, or else you will do a crime against raccoons everywhere 🦝
 ### Ready your browser
-1. Navigate to your desired AutoMod blocked terms list.
+1. Navigate to your desired AutoMod blocked terms list. You're trying to get to https://dashboard.twitch.tv/u/<username>/settings/moderation/automod for the channel you want to populate terms for.
     1. From twitch.tv, click the profile at the top right. Click video producer.
     2. At the left sidebar, click Settings > Moderation
     3. From Automod Controls, click "Blocked terms and phrases"
