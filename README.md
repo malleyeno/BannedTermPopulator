@@ -19,7 +19,7 @@ You need access to a web browser that can access AutoMod's Blocked terms and phr
 - Make a txt file (use UTF-8 encoding) in a place you will remember.
 - Populate the text file with terms you want blocked.
     - You MUST have one term/phrase per line.
-    - Do not combine multiple terms/phrases onto one line, they will be added in their combined form.
+    - Do not combine multiple terms/phrases onto one line, they will be added in their combined form as a single entry.
 - Save your text file
 
 The example.txt in the directory is available if you want to check that the script is working before you invest in preparing this blocked term list.
