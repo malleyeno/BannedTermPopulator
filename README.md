@@ -55,11 +55,11 @@ Make sure you delete the test terms from automod after, or else you will do a cr
     - This script will read your blocked terms list line by line and enter it into automod manually.
     - You need to be careful because you cannot do anything else while it is doing this!
         - The script enters the terms as though you are typing them in, and will type them into whatever is in focus.
-        - If you take your browser's focus away from the automod blocked term input, then _the script will put the blocked terms into whatever you put into focus_! That can include dms, texts, or anything else you put your cursor into focus on while the script is running.
+        - If you take your browser's focus away from the automod blocked term input, then _the script will put the blocked terms into whatever you put into focus_! That can include DMs, texts, or anything else you put your cursor into focus on while the script is running.
         - Either let the script finish before resuming using your computer, or stop it early before doing anything else (read below).
 5. If you need to stop the script early, hit `Win + Z` again.
     - If that doesn't work, then either:
-        - kill the script in task manager, or
+        - Kill the script in task manager, or
         - Kill it in your tray bar by right-clicking the green H, then hit "exit"
 6. Let the script finish its work, then resume using your computer again.
 7. After the script is done, you can right-click the green H in your tray bar and "exit" it.
